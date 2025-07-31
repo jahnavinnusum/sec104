@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "collobaration" 
+=======
+"collaboration" 
+>>>>>>> 5aa476bb73075734d75df354f841522c37cfaaf0
